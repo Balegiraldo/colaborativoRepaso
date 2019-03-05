@@ -1,0 +1,12 @@
+body{
+/**background-color: linear-grandient(#EC99A88,AOF5DB);*/
+  background: linear-gradient(90deg, #65997d 10%, #fccb6e 90%);
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+div{
+	margin: auto;
+}
